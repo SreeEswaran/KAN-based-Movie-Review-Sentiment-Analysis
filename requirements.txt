@@ -1,0 +1,5 @@
+tensorflow
+numpy
+networkx
+matplotlib
+scikit-learn
