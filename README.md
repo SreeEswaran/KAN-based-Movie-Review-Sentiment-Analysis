@@ -71,7 +71,10 @@ The IMDb dataset is a large movie review dataset for binary sentiment classifica
 
 The model is a Knowledge-Aware Neural Network (KAN) that integrates knowledge from a knowledge graph to enhance the learning process. The architecture includes an LSTM layer for sequence processing and an embedding layer that incorporates knowledge from the graph.
 
-For any queries, feel free to write at 21pa1a05j8@vishnu.edu.in and don't forget to follow me on:
-**Linkedin**: https://www.linkedin.com/in/sree-deekshitha-yerra
-**Medium**: https://www.medium.com/@SreeEswaran
-**Book An Appointment**: https://topmate.io/SreeEswaran
+### For any queries, feel free to write at 21pa1a05j8@vishnu.edu.in and don't forget to follow me on:
+
+## **Linkedin**: https://www.linkedin.com/in/sree-deekshitha-yerra
+
+## **Medium**: https://www.medium.com/@SreeEswaran
+
+## **Book An Appointment**: https://topmate.io/SreeEswaran
