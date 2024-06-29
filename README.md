@@ -73,8 +73,8 @@ The model is a Knowledge-Aware Neural Network (KAN) that integrates knowledge fr
 
 ### For any queries, feel free to write at 21pa1a05j8@vishnu.edu.in and don't forget to follow me on:
 
-## **Linkedin**: https://www.linkedin.com/in/sree-deekshitha-yerra
+**Linkedin**: https://www.linkedin.com/in/sree-deekshitha-yerra
 
-## **Medium**: https://www.medium.com/@SreeEswaran
+**Medium**: https://www.medium.com/@SreeEswaran
 
-## **Book An Appointment**: https://topmate.io/SreeEswaran
+**Book An Appointment**: https://topmate.io/SreeEswaran
