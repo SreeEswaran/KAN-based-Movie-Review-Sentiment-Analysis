@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# Data
+data/imdb_reviews/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Models
+models/*.h5
